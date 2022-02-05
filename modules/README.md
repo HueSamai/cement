@@ -1,8 +1,11 @@
 # Latest versions
 
 AssetModule - v1.0.0
+
 PoolingModule - v1.0.0
+
 SceneModule - v0.2.0-beta
+
 UIModule - v3.0.1
 
 # Beta
