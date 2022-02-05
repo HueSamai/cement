@@ -1,3 +1,7 @@
 # Note
 
 Don't download the modules from here - go to the releases. This page is just merely here for you to see the source code of the modules.
+
+# Beta
+
+If a module is marked beta, it means it hasn't been properly tested, and is likely to have bugs. However, it is still safe to use.
