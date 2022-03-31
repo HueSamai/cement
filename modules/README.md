@@ -2,6 +2,10 @@
 
 AssetModule - v1.0.0
 
+BuildModule - v1.0.0
+
+InputModule - v1.0.0
+
 PoolingModule - v1.0.0
 
 SceneModule - v0.2.0-beta
