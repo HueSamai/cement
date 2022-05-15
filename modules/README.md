@@ -8,7 +8,7 @@ InputModule - v1.0.0
 
 PoolingModule - v1.0.0
 
-SceneModule - v0.2.0-beta
+SceneModule - v1.0.0
 
 UIModule - v3.0.1
 
